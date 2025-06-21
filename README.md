@@ -30,6 +30,7 @@ Ini adalah hasil technical test untuk pembuatan prototype aplikasi e-commerce pe
 
 ## 📁 Struktur Project
 
+```
 project-dwp/
 ├── internet-package/ ← berisi React app
 │ ├── src/
@@ -38,6 +39,7 @@ project-dwp/
 ├── internet-package-server ← mock API untuk json-server
 │ ├── db.json
 ├── README.md ← penjelasan cara menjalankan project
+```
 
 ## 🔗 FrontEnd GitHub
 
