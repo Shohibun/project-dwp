@@ -19,8 +19,6 @@ Ini adalah hasil technical test untuk pembuatan prototype aplikasi e-commerce pe
 - 10:22 - 11:32 WIB → Menambahkan komentar kode
 - 12:15 - 13:12 WIB → Menambahkan komentar kode lanjutan
 
----
-
 ## 📦 Fitur Utama
 
 ✅ Login Page (admin/123456)  
@@ -29,8 +27,6 @@ Ini adalah hasil technical test untuk pembuatan prototype aplikasi e-commerce pe
 ✅ Transaction Management (CRUD)  
 ✅ Logout dan Proteksi Routing  
 ✅ UI responsif menggunakan MUI (Material UI)
-
----
 
 ## 📁 Struktur Project
 
@@ -43,13 +39,9 @@ project-dwp/
 │ ├── db.json
 ├── README.md ← penjelasan cara menjalankan project
 
----
-
 ## 🔗 FrontEnd GitHub
 
 https://github.com/Shohibun/internet-package.git
-
----
 
 ## ⚙️ Cara Menjalankan Aplikasi
 
@@ -79,8 +71,6 @@ npm run dev
 
 ```
 
----
-
 ## 🔐 Login
 
 Gunakan akun berikut untuk masuk:
@@ -91,8 +81,6 @@ Password: 123456
 
 ```
 
----
-
 ## 🔗 API JSON Server Otomatis
 
 | Resource     | Endpoint                             |
@@ -101,8 +89,6 @@ Password: 123456
 | Transactions | `http://localhost:3001/transactions` |
 | Packages     | `http://localhost:3001/packages`     |
 
----
-
 ## 📌 Catatan Tambahan
 
 Tidak menggunakan autentikasi real (hanya simulasi dengan localStorage)
@@ -110,5 +96,3 @@ Tidak menggunakan autentikasi real (hanya simulasi dengan localStorage)
 Layout menggunakan Material UI
 
 Semua data disimpan di file db.json via json-server
-
----
