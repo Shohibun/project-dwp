@@ -1,0 +1,47 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Budi",
+      "phone": "08123456789",
+      "email": "budi@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Sari",
+      "phone": "08987654321",
+      "email": "sari@gmail.com"
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "customerId": "1",
+      "package": "10GB",
+      "price": 50000
+    },
+    {
+      "id": 2,
+      "customerId": "2",
+      "package": "20GB",
+      "price": 100000
+    }
+  ],
+  "packages": [
+    {
+      "id": 1,
+      "name": "10GB",
+      "price": 50000
+    },
+    {
+      "id": 2,
+      "name": "20GB",
+      "price": 100000
+    },
+    {
+      "id": 3,
+      "name": "30GB",
+      "price": 150000
+    }
+  ]
+}
