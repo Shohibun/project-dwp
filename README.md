@@ -21,7 +21,7 @@ Ini adalah hasil technical test untuk pembuatan prototype aplikasi e-commerce pe
 
 ## 📦 Fitur Utama
 
-✅ Login Page (admin/123456)  
+✅ Login Page (admin/admin123)  
 ✅ Dashboard Ringkasan  
 ✅ Customer Management (CRUD)  
 ✅ Transaction Management (CRUD)  
@@ -79,7 +79,7 @@ Gunakan akun berikut untuk masuk:
 
 ```makefile
 Username: admin
-Password: 123456
+Password: admin123
 
 ```
 
